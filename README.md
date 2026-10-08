@@ -1,1 +1,2 @@
-# BERT Supplier Identification and Evaluation
+# BERT Supplier Identification and Evaluation - Kimchann Chon
+
