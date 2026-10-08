@@ -1,2 +1,2 @@
-# \## BERT - Supplier Identification and Evaluation - Kimchann Chon
+# \## BERT Algorithm - Supplier Identification and Evaluation - Kimchann Chon
 
